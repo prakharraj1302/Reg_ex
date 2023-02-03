@@ -1,0 +1,45 @@
+body {
+    background-color: beige;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkgreen;
+    border: 1px solid darkgreen;
+    margin: 10%;
+    padding: 5%;
+}
+
+main {
+    border: 1px solid darkgreen;
+    text-align: center;
+    padding: 10%;
+    margin: 20%;
+}
+
+.out {
+    font-size: 40px;
+    border: 2px solid darkgreen;
+    /* height: 20px; */
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+/* .int { */
+    /* margin: 5%; */
+/* } */
+
+.button {
+    background-color: darkgreen;
+    /* Green */
+    /* border: none; */
+    color: white;
+    padding: 1%;
+    margin: 2%;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10%;
+}
+.box{
+    border: 1px solid darkgreen;
+    padding: 2%;
+}
